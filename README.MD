@@ -1,7 +1,7 @@
 # ToxBERT
 <img src="docs/Graphical_abstract.png" width="75%" height="75%">
 
-Implementation of the Paper ***"ToxBERT: "***
+Implementation of the Paper ***"ToxBERT"***
 
 ## Installation
 ### Prerequisites
